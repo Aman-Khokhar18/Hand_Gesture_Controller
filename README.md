@@ -2,6 +2,8 @@
 
 A Python project that uses computer vision and hand tracking to control your computer's mouse pointer using intuitive hand gestures. This project leverages [OpenCV](https://opencv.org/), [MediaPipe](https://mediapipe.dev/), and [PyAutoGUI](https://pyautogui.readthedocs.io/) to provide a contactless way to interact with your computer.
 
+![Demo GIF](demo.gif)
+
 ---
 
 ## Features
@@ -20,13 +22,13 @@ A Python project that uses computer vision and hand tracking to control your com
 
 ---
 
-## Demo Video
+## Demo
 
-You can watch a demo of the project by clicking on the thumbnail below:
+Here's a demonstration of the project in action:
 
-[![Watch the demo video](https://cdn.streamable.com/image/57fmm2.jpg)](https://streamable.com/57fmm2)
+![Demo GIF](demo.gif)
 
-Alternatively, you can view the demo directly on [Streamable](https://streamable.com/57fmm2).
+*Note: The above GIF was generated from the project demo video.*
 
 ---
 
